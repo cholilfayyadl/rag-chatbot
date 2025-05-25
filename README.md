@@ -75,7 +75,7 @@ Ikuti langkah-langkah berikut untuk menjalankan **Achya** di lokal:
    * Gemini API
    * Google Doc (untuk Knowledge Base)
 
-8. ▶️ **Jalankan `index.js`** untuk mengaktifkan koneksi awal dan testing:
+8. ▶️ **Jalankan `index.js`** untuk mengaktifkan wa webhook, setelah muncul barcode silahkan di scane dan pastikan sudah masuk.
 
    ```bash
    node index.js
