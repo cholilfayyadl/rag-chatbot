@@ -89,7 +89,7 @@ Setelah semua berjalan, **Achya** siap menerima dan membalas pesan dari WhatsApp
 ## 📝 Catatan Tambahan
 
 * Setelah menscane barcode pastikan akun WhatsApp sudah tersambung di WA Web dan webhook dapat menerima pesan
-* Workflow dapat dikembangkan lebih lanjut untuk fitur seperti kuis, pengingat, atau personalisasi
+* Workflow dapat dikembangkan lebih lanjut untuk fitur seperti kuis, pengingat tugas, atau pengumuman lain.
 
 ## 👨‍💻 Pengembang
 
