@@ -40,7 +40,7 @@ Ikuti langkah-langkah berikut untuk menjalankan **Achya** di lokal:
 
    ```bash
    git clone https://github.com/cholilfayyadl/rag-chatbot.git
-   cd achya-mka
+   cd rag-chatbot
    ```
 
 2. ⚙️ **Install n8n** (bisa global atau via Docker):
