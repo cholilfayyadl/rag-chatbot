@@ -72,8 +72,8 @@ Ikuti langkah-langkah berikut untuk menjalankan **Achya** di lokal:
 
 7. 🔐 **Setup Credential** untuk:
 
-   * Gemini API (atau OpenAI)
-   * Google Sheets (untuk logging, jika digunakan)
+   * Gemini API
+   * Google Doc (untuk Knowledge Base)
 
 8. ▶️ **Jalankan `index.js`** untuk mengaktifkan koneksi awal dan testing:
 
