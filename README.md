@@ -4,7 +4,7 @@
 
 ## 🚀 Fitur Utama
 
-* 💬 Balas otomatis pertanyaan mahasiswa via WhatsApp
+* 💬 Balas otomatis pertanyaan via WhatsApp
 * 🔗 Integrasi webhook dua arah antara WhatsApp dan n8n
 * 🤖 Respons cerdas berbasis AI
 * 📊 Menggunakan session, sehingga dapat mengingat komunikasi sebelumnya.
