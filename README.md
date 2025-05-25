@@ -93,7 +93,7 @@ Setelah semua berjalan, **Achya** siap menerima dan membalas pesan dari WhatsApp
 
 ## 👨‍💻 Pengembang
 
-Proyek ini dibuat sebagai bagian dari tugas mini project untuk memenuhi tugas mini project Prinsip Kecerdasan Artificial.
+Proyek ini dibuat untuk memenuhi tugas mini project Prinsip Kecerdasan Artificial.
 
 ---
 
