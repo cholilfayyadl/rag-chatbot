@@ -39,7 +39,7 @@ Ikuti langkah-langkah berikut untuk menjalankan **Achya** di lokal:
 1. 🧾 **Clone** repositori ini:
 
    ```bash
-   git clone https://github.com/username/achya-mka.git
+   git clone https://github.com/cholilfayyadl/rag-chatbot.git
    cd achya-mka
    ```
 
